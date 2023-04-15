@@ -8,4 +8,5 @@ Algorithms for tech interview
 <br/>
 <br/>
 <br/>
+
 # Linear Search
