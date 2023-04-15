@@ -1,4 +1,4 @@
-const { EXAMPLE_ARRAY } = require("./util");
+const { EXAMPLE_ARRAY } = require("../util");
 
 let iterations = 0;
 
